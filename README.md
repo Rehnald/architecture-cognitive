@@ -1,6 +1,6 @@
 # architecture-cognitive
 
-De l'ingénierie des sciences-cognitives en passant par la philosophie, de l'alpha à l’oméga, des LLm dans la vie  
+De l'ingénierie des sciences-cognitives en passant par la philosophie, de l'alpha à l’oméga, entre temps et espace  
 
 
 
@@ -31,7 +31,9 @@ Le Poids du Parchemin
 Ainsi, l’humanité a opéré son plus grand troc.
 Avant l’écriture, les hommes étaient liés par le fil invisible et fragile de la voix, ils étaient pauvres en souvenirs lointains, mais riches en présences. Ils vivaient dans un éternel présent, soudés par la peur et la beauté de l'instant présent.
 Après l’écriture, les hommes ont conquis le temps et l’espace. Ils ont bâti des empires de papier et des cathédrales de livres. Ils ont appris à converser avec les morts et à léguer leur esprit aux siècles futurs. Mais en échange, ils ont accepté le froid de la distance. Ils ont troqué la chaleur du souffle contre la froideur d'un bureau, et ont appris, au fil des pages, à être seuls ensemble.
-
+Ils ont bâti des cathédrales de livres, ils ont amoncelé la connaissance et le savoir est devenu pouvoir et le pouvoir s'enlumina de glyphes à la lumière vacillante des bougies.
+Nous avons bâti des cathédrales de livres illuminées par des filaments incandescents.
+Nous avons assemblé des cathédrales de données à la lumière du silicium. 
 
 
 
