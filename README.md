@@ -1,2 +1,40 @@
 # architecture-cognitive
-De l'ingénierie des sciences-cognitives en passant par la philosophie, de l'alpha à l’oméga de la vie 
+
+De l'ingénierie des sciences-cognitives en passant par la philosophie, de l'alpha à l’oméga, des LLm dans la vie  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 [Rehnald] — Tous droits réservés. Toute reproduction, modification ou réutilisation est interdite sans autorisation.
