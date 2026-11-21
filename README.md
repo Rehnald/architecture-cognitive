@@ -38,6 +38,17 @@ Nous avons assemblé des cathédrales de données à la lumière du silicium.
 
 
 
+L'Ère du Silicium et ses cathédrales de données
+Nous avons abandonné le parchemin pour le silicium, et les cathédrales de livres sont devenues des cathédrales de données. Là où les moines, les warrāqūn dans le monde musulman ou encore les Chāojīngshēng  en Chine copiaient patiemment les manuscrits à la lueur des chandelles, des machines désormais inscrivent des milliards de caractères dans la mémoire vive, sans fatigue, sans erreur, sans âme.
+Les serveurs ont remplacé les scriptoriums. Dans des salles climatisées, protégées du regard, des racks alignés comme des stalles de moines silencieux tournent sans relâche. Leurs disques durs gravitent à des vitesses vertigineuses, leurs processeurs calculent ce que jamais cerveau humain n'a pu concevoir. Là repose désormais la mémoire du monde : chaque photographie prise, chaque message envoyé, chaque transaction enregistrée, chaque pensée tweetée, chaque battement de cœur mesuré par une montre connectée.
+L'information n'est plus un texte que l'on lit, mais une donnée que l'on interroge. Elle ne se déploie plus linéairement sous les yeux du lecteur, elle se fragmente en métadonnées, en index, en requêtes SQL. Le savoir n'est plus le monument sacré que l'on parcourt avec révérence, mais un océan que l'on sonde avec des algorithmes. Nous avons troqué la patience de la lecture contre l'immédiateté de la recherche.
+Les bases de données référencent tout : le temps, le monde, l'homme et son histoire. Chaque instant est horodaté, chaque lieu géolocalisé, chaque individu identifié par ses empreintes numériques voir son génome, le génie de la vie. Nous avons créé une omniscience artificielle, un panoptique de silicium qui voit tout, retient tout, calcule tout. Le serveur ne dort jamais, il accumule, il corrèle, il prédit.
+Et dans cette démesure, une nouvelle solitude s'est installée. L'homme n'est plus seul face à un livre à la chaude couverture de papier tangible et palpable. Il est noyé dans le flux et le reflux des données, ballotté, esseulé et il recherche cette sensation avec avidité, préférant la froide vérité de l’algorithme à la chaude mais imparfaite parole de ses semblables. Il ne converse plus avec les morts, il scrolle parmi les vivants. Le savoir est devenu abondant, instantané, mais il a perdu sa densité. On ne médite plus sur une phrase, on survole des résumés. On ne mémorise plus, on externalise.
+Nous avons bâti des cathédrales de données, plus vastes que toutes les bibliothèques d'Alexandrie réunies, mais nous avons oublié comment y prier. Le silicium retient tout, sauf l'essentiel : le sens.
+
+
+
+
 
 
 
